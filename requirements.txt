@@ -1,0 +1,6 @@
+streamlit==1.19.0
+firebase-admin==6.1.0
+google-cloud-storage==2.8.0
+altair==4.0.1
+
+
